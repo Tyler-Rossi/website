@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>My Site Blog</title>
+        <title>Vulnerability Mgmt Blog</title>
         <link>https://tyler-rossi.github.io/website/blog</link>
-        <description>My Site Blog</description>
+        <description>Vulnerability Mgmt Blog</description>
         <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
@@ -32,8 +32,8 @@
             <link>https://tyler-rossi.github.io/website/blog/first-blog-post</link>
             <guid>first-blog-post</guid>
             <pubDate>Tue, 28 May 2019 00:00:00 GMT</pubDate>
-            <description><![CDATA[<<<<<<< HEAD]]></description>
-            <content:encoded><![CDATA[<p>&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD</p><h1>Hello, and welcome to the page</h1><p>Testing how to fix these web pages. What do you think?</p>]]></content:encoded>
+            <description><![CDATA[Testing how to fix these web pages. What do you think?]]></description>
+            <content:encoded><![CDATA[<p>Testing how to fix these web pages. What do you think?</p>]]></content:encoded>
             <category>start here</category>
             <category>vdm</category>
         </item>

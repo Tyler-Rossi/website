@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tyler-rossi.github.io/website/blog</id>
-    <title>My Site Blog</title>
+    <title>Vulnerability Mgmt Blog</title>
     <updated>2021-08-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tyler-rossi.github.io/website/blog"/>
-    <subtitle>My Site Blog</subtitle>
+    <subtitle>Vulnerability Mgmt Blog</subtitle>
     <icon>https://tyler-rossi.github.io/website/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
@@ -44,8 +44,8 @@
         <id>first-blog-post</id>
         <link href="https://tyler-rossi.github.io/website/blog/first-blog-post"/>
         <updated>2019-05-28T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<<<<<<< HEAD]]></summary>
-        <content type="html"><![CDATA[<p>&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD</p><h1>Hello, and welcome to the page</h1><p>Testing how to fix these web pages. What do you think?</p>]]></content>
+        <summary type="html"><![CDATA[Testing how to fix these web pages. What do you think?]]></summary>
+        <content type="html"><![CDATA[<p>Testing how to fix these web pages. What do you think?</p>]]></content>
         <author>
             <name>Tyler Rossi</name>
             <uri>https://github.com/Tyler-Rossi</uri>
