@@ -1,5 +1,5 @@
 ---
-slug: first-blog-post
+slug: Here we go again
 title: First Blog Post
 authors:
   name: Gao Wei
