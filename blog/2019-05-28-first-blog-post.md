@@ -2,11 +2,11 @@
 slug: first-blog-post
 title: First Blog Post
 authors:
-  name: Gao Wei
-  title: Docusaurus Core Team
-  url: https://github.com/wgao19
+  name: Tyler Rossi
+  title: Vulnerability Debt Managment
+  url: https://github.com/Tyler-Rossi
   image_url: https://github.com/wgao19.png
-tags: [hola, docusaurus]
+tags: [start here, vdm]
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet
+Hello, and welcome to the page
