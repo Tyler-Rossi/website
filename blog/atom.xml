@@ -44,13 +44,13 @@
         <id>first-blog-post</id>
         <link href="https://tyler-rossi.github.io/website/blog/first-blog-post"/>
         <updated>2019-05-28T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet]]></summary>
-        <content type="html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>]]></content>
+        <summary type="html"><![CDATA[<<<<<<< HEAD]]></summary>
+        <content type="html"><![CDATA[<p>&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD</p><h1>Hello, and welcome to the page</h1><p>Testing how to fix these web pages</p><blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><p>362da9d9d38eb83953eff8eaa4eac53caf70037a</p></blockquote></blockquote></blockquote></blockquote></blockquote></blockquote></blockquote>]]></content>
         <author>
-            <name>Gao Wei</name>
-            <uri>https://github.com/wgao19</uri>
+            <name>Tyler Rossi</name>
+            <uri>https://github.com/Tyler-Rossi</uri>
         </author>
-        <category label="hola" term="hola"/>
-        <category label="docusaurus" term="docusaurus"/>
+        <category label="start here" term="start here"/>
+        <category label="vdm" term="vdm"/>
     </entry>
 </feed>

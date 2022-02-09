@@ -32,10 +32,10 @@
             <link>https://tyler-rossi.github.io/website/blog/first-blog-post</link>
             <guid>first-blog-post</guid>
             <pubDate>Tue, 28 May 2019 00:00:00 GMT</pubDate>
-            <description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet]]></description>
-            <content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>]]></content:encoded>
-            <category>hola</category>
-            <category>docusaurus</category>
+            <description><![CDATA[<<<<<<< HEAD]]></description>
+            <content:encoded><![CDATA[<p>&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD</p><h1>Hello, and welcome to the page</h1><p>Testing how to fix these web pages</p><blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><p>362da9d9d38eb83953eff8eaa4eac53caf70037a</p></blockquote></blockquote></blockquote></blockquote></blockquote></blockquote></blockquote>]]></content:encoded>
+            <category>start here</category>
+            <category>vdm</category>
         </item>
     </channel>
 </rss>

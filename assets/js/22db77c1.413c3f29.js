@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[591],{1078:function(e){e.exports=JSON.parse('{"allTagsPath":"/website/blog/tags","slug":"/website/blog/tags/vdm","name":"vdm","count":1,"permalink":"/website/blog/tags/vdm"}')}}]);
