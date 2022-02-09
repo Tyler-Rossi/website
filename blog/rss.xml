@@ -33,7 +33,7 @@
             <guid>first-blog-post</guid>
             <pubDate>Tue, 28 May 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[<<<<<<< HEAD]]></description>
-            <content:encoded><![CDATA[<p>&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD</p><h1>Hello, and welcome to the page</h1><p>Testing how to fix these web pages</p><blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><p>362da9d9d38eb83953eff8eaa4eac53caf70037a</p></blockquote></blockquote></blockquote></blockquote></blockquote></blockquote></blockquote>]]></content:encoded>
+            <content:encoded><![CDATA[<p>&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD</p><h1>Hello, and welcome to the page</h1><p>Testing how to fix these web pages. What do you think?</p>]]></content:encoded>
             <category>start here</category>
             <category>vdm</category>
         </item>
